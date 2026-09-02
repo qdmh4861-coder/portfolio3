@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title description">
+  <title id="title">프로필 이미지 자리</title>
+  <desc id="description">실제 프로필 사진으로 교체할 수 있는 임시 이미지</desc>
+  <rect width="800" height="1000" fill="#eff6ff"/>
+  <circle cx="400" cy="370" r="145" fill="#bfdbfe"/>
+  <path d="M145 895c24-216 121-325 255-325s231 109 255 325" fill="#bfdbfe"/>
+  <text x="400" y="940" fill="#2563eb" font-family="Arial, sans-serif" font-size="34" text-anchor="middle">PROFILE IMAGE</text>
+</svg>

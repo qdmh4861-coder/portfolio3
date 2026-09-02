@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Movie Search App 프로젝트 이미지</title>
+  <rect width="800" height="500" fill="#f5f3ff"/>
+  <rect x="95" y="75" width="610" height="350" rx="24" fill="#fff"/>
+  <rect x="135" y="115" width="530" height="50" rx="25" fill="#ede9fe"/>
+  <circle cx="625" cy="140" r="13" fill="none" stroke="#7c3aed" stroke-width="7"/>
+  <path d="m635 150 15 15" stroke="#7c3aed" stroke-width="7" stroke-linecap="round"/>
+  <rect x="135" y="205" width="120" height="155" rx="12" fill="#c4b5fd"/>
+  <rect x="285" y="205" width="120" height="155" rx="12" fill="#a78bfa"/>
+  <rect x="435" y="205" width="120" height="155" rx="12" fill="#8b5cf6"/>
+  <rect x="585" y="205" width="80" height="155" rx="12" fill="#7c3aed"/>
+  <text x="135" y="400" fill="#5b21b6" font-family="Arial, sans-serif" font-size="26" font-weight="700">MOVIE SEARCH</text>
+</svg>
